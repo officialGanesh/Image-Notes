@@ -5,7 +5,7 @@ In this project we'll be grabbing text from an image and try to write the text i
 in current working directory. 
 
 ## Project Requirements
-1️⃣ pytesseract 2️⃣ pyAutoGui 
+1️⃣ pytesseract 2️⃣ pyAutoGui 3️⃣ Pillow
 
 ### TODO
 1️⃣ Load text from an image.
